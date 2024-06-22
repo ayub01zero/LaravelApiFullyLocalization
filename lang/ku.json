@@ -1,10 +1,10 @@
 {
-    "(and :count more error)": "(و ١٠ هەڵەی تر)",
-    "(and :count more errors)": "(و ١٠ هەڵەی تر)|(و ١٠ هەڵەی تر)|(و ١٠ هەڵەی تر)",
+    "(and :count more error)": "(و :count هەڵەی تر)",
+    "(and :count more errors)": "(و :count هەڵەی تر)",
     "All rights reserved.": "هەموو مافەکانی پارێزراوە.",
     "errors": "هەڵەکان",
     "Forbidden": "قەدەغە",
-    "Go to page :page": "بڕۆ بۆ لاپەڕەی ١٠",
+    "Go to page :page": "بڕۆ بۆ لاپەڕەی :page",
     "Hello!": "سڵاو!",
     "If you did not create an account, no further action is required.": "ئەگەر ئەکاونتت دروست نەکردووە، پێویست بە هیچ کارێکی زیاتر ناکات.",
     "If you did not request a password reset, no further action is required.": "ئەگەر داوای ڕێستکردنی وشەی نهێنی نەکردبێت، پێویست بە هیچ کارێکی زیاتر ناکات.",

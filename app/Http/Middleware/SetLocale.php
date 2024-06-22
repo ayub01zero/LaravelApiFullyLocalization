@@ -22,6 +22,8 @@ class SetLocale
             
             if (in_array($locale, config('app.locales'))) {
                 App::setLocale($locale);
+            }else{
+                App::setLocale(config('app.locale'));   
             }
         } 
         
