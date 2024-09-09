@@ -1,0 +1,12 @@
+{
+    "select_language": "Select Language",
+    "product_name": "Product Name",
+    "description": "Description",
+    "location": "Location",
+    "price": "Price",
+    "state": {
+      "active": "Active",
+      "inactive": "Inactive"
+    }
+  }
+  

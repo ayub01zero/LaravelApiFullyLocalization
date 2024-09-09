@@ -1,0 +1,12 @@
+{
+    "select_language": "زمانەکان هەڵبژێرە",
+    "product_name": "ناوی بەرهەم",
+    "description": "پەسەندکردن",
+    "location": "شوێن",
+    "price": "قیمت",
+    "state": {
+      "active": "چالاک",
+      "inactive": "ناچالاک"
+    }
+  }
+  

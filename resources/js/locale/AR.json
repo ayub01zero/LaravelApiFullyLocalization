@@ -1,0 +1,12 @@
+{
+    "select_language": "اختر اللغة",
+    "product_name": "اسم المنتج",
+    "description": "الوصف",
+    "location": "الموقع",
+    "price": "السعر",
+    "state": {
+      "active": "نشط",
+      "inactive": "غير نشط"
+    }
+  }
+  
